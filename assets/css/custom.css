@@ -1,3 +1,7 @@
 .progress.level-bar {
 display: none;
 }
+
+.main-wrapper .project-title {
+font-weight: 600;
+}
